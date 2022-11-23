@@ -1,0 +1,25 @@
+Git
+
+- Git is a version control system for tracking changes in your code overtime
+- USes: You can revert to previous versions of ur code base 
+	  Lots of people can work on the same codebase and stay up to date 
+- Created by linus Torvalds in 2005
+
+Why do we use git
+- For uploading our websites and machine learning files for our AI websites 
+- Used at majority of tech companies for version control and team projects. 
+
+worth getting confident with. Majority of companies look out for it 
+
+
+
+
+ADD, PUSH, COMMIT 
+
+cd desktop
+mkdir dir_folder 
+cd dir_folder
+git init
+git status 
+git add file.txt (add your file)
+git commit  
