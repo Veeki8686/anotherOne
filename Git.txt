@@ -1,4 +1,4 @@
-This is from Git hub changes 
+This is from Git hub changes. Now changing from desktop
 
 - Git is a version control system for tracking changes in your code overtime
 - USes: You can revert to previous versions of ur code base 
